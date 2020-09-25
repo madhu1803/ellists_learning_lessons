@@ -117,7 +117,7 @@ li i {
 /* footer */
 
 .footer-jumbotron-section .home-jumbotron {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),
     url("https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80");
   width: 100%;
   height: 500px;
@@ -126,11 +126,12 @@ li i {
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 0 !important;
+  color: wheat !important;
 }
 
 .footer-jumbotron-section .home-jumbotron .jumbotron-txt-container {
   padding: 30px;
   width: 100%;
   height: 100%;
-  color: white;
+  color: #ed3833 !important;
 }
