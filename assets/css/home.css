@@ -88,14 +88,14 @@ body {
     padding: 20px;
 }
 
+/* facilities container */
 
-
-.facilities-contaner li {
+.facilities-container li {
     border: none !important;
 
 }
 
-.facilities-contaner li i {
+.facilities-container li i {
     color: #ED3833;
     font-size: 20px;
 
