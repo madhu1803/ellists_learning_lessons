@@ -49,10 +49,12 @@ li i,
 }
 
 .header-jumbotron-section .home-jumbotron .jumbotron-txt-container,
-.facilities-jumbotron .jumbotron-txt-container {
+.facilities-jumbotron .jumbotron-txt-container,
+.testimonials-jumbotron .jumbotron-txt-container {
   background: rgba(0, 0, 0, 0.86);
   padding: 30px;
   color: white;
+  text-align: center;
 }
 
 .btn-red {
@@ -90,7 +92,8 @@ li i,
   color: white;
 }
 
-.facilities-jumbotron .jumbotron-txt-container {
+.facilities-jumbotron .jumbotron-txt-container,
+t.estimonials-jumbotron .jumbotron-txt-container {
   text-align: center;
   padding: 20px;
 }
@@ -116,11 +119,23 @@ li i,
   height: 35vh;
   object-fit: cover;
 }
-/* testimonials container  */
+
+/* testimonials jumbotron */
+
+.testimonials-jumbotron .jumbotron {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+/* .testimonials-container */
 .testimonials-container {
-  /* background-color: #f4f7fe !important;
-  padding-top: 50px;
-  padding-bottom: 50px; */
+  background-color: #f4f7fe;
 }
 /* footer */
 
