@@ -1,4 +1,4 @@
-$(".responsive").slick({
+$(".c").slick({
   dots: true,
   infinite: false,
   speed: 300,
