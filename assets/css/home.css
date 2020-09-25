@@ -87,3 +87,14 @@ body {
     text-align: center;
     padding: 20px;
 }
+
+.facilities-contaner li {
+    border: none !important;
+
+}
+
+.facilities-contaner li i {
+    color: #ED3833;
+    font-size: 20px;
+
+}
