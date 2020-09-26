@@ -1,7 +1,8 @@
 $(".c").slick({
   dots: true,
-  infinite: true,
-  speed: 300,
+  autoplay: true,
+  autoplaySpeed: 1200,
+  arrows: true,
   slidesToShow: 4,
   slidesToScroll: 4,
   responsive: [
