@@ -131,6 +131,7 @@ t.estimonials-jumbotron .jumbotron-txt-container {
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
+  margin-bottom: 0 !important;
 }
 
 /* .testimonials-container */
